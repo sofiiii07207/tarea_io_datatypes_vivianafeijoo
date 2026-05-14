@@ -56,14 +56,10 @@ int main() {
 
     cout << "===== JUEGO TRES EN RAYA =====; 
     cout << "Ingrese nombre del Jugador 1 (X): ";
-    getline(cin, nombre1);
-
     cout << "Ingrese nombre del Jugador 2 (O): ";
-    getline(cin, nombre2);
+    
 
     Tresenraya juego(nombre1, nombre2);
 
     int puntaje1 = 0;
     int puntaje2 = 0;
-    
-    
