@@ -4,15 +4,15 @@
 3. B
 4. B
 5. B
-6. B-
-7. A
+6. B
+7. B
 8. C
 9. B
-10. A
+10. B
 11. B
-12. B
+12. C
 13. B
-14. B
+14. B 
 15. B 
 
 ## PARTE B
@@ -25,7 +25,6 @@ Un arreglo vendría a ser un grupo de variables del mismo tipo que se las termin
 numeros[1] = 20;
 ### Pregunta 4
 Un alcance (scope) de una variable es lo que se refiere a que es la parte del programa donde una variable podríamos usar y la diferencia entre una variable local y una global, es que la local es cuando la creamos dentro de la función y como que solo sirve ahí, pero la global es cuando se crea fuera de las funciones y podemos usarlas en todo el programa. 
-
 ### Pregunta 5 
 Usamos private y public en una clase porque así podemos saber que partes de una clase se pueden usar desde afuera, por ejemplo la private solo la podemos usar variables o funciones, en cambio, la public cualquier parte del programa podemos usarlas. Por otro lado, el encapsulamiento significa que podemos proteger los datos para así poder evitar cambios incorrectos.
 
